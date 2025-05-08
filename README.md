@@ -7,7 +7,7 @@ A site showing different events happening along the gulf coast by state
 <li>Florida</li>
 </ol>
 
-Louisiana
+**Louisiana**
 <ul>
 <li>Mardi Gras</li>
 <li>Jazz Fest</li>
