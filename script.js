@@ -10,7 +10,7 @@ changeBackgroundButton1.addEventListener("click", () => {
 // paragraph change code 
 let paragraph = document.getElementById("myParagraph");
     changeBackgroundButton1.addEventListener("click", () => {
-        paragraph.innerHTML = "<h4>Mardi Gras!</h4> It's a time of feasting, parades, and parties, often involving elaborate costumes, music, and the throwing of beads and trinkets.";
+        paragraph.innerHTML = "<h4>Mardi Gras!</h4> It's a time of feasting, parades, and parties, often involving elaborate costumes, music, and the throwing of beads and trinkets.<br>January 6 - February 17, 2026";
       });
 
 
@@ -37,7 +37,7 @@ changeBackgroundButton2.addEventListener("click", () => {
 
 // change paragraph code
 changeBackgroundButton2.addEventListener("click", () => {
-    paragraph.innerHTML = "<h4>Jazz Fest</h4> Is an annual festival in New Orleans that celebrates the city's unique music, culture, and heritage. It showcases a wide range of musical styles, including jazz, gospel, blues, R&B, rock, funk, Cajun, zydeco, and more.";
+    paragraph.innerHTML = "<h4>Jazz Fest</h4> Is an annual festival in New Orleans that celebrates the city's unique music, culture, and heritage. It showcases a wide range of musical styles, including jazz, gospel, blues, R&B, rock, funk, Cajun, zydeco, and more.<br>April 23-23 and April 30-May 3 2026";
   });
 
 // TPC button
@@ -50,7 +50,7 @@ changeBackgroundButton3.addEventListener("click", () => {
 });
 // change paragraph code
 changeBackgroundButton3.addEventListener("click", () => {
-    paragraph.innerHTML = "<h4>The Zurich Classic</h4> Of New Orleans is a PGA TOUR event, a professional golf tournament, held annually in Avondale, Louisiana, just outside of New Orleans. It's a two-man team event, where players compete in foursomes and four-ball formats. The tournament is sponsored by Zurich Insurance Group and organized by the Fore! Kids Foundation.";
+    paragraph.innerHTML = "<h4>The Zurich Classic</h4> Of New Orleans is a PGA TOUR event, a professional golf tournament, held annually in Avondale, Louisiana, just outside of New Orleans. It's a two-man team event, where players compete in foursomes and four-ball formats. The tournament is sponsored by Zurich Insurance Group and organized by the Fore! Kids Foundation.<br>TBA 2026";
   });
 
 // straqwberry fest button
@@ -64,7 +64,7 @@ changeBackgroundButton4.addEventListener("click", () => {
 
 // change paragraph code
 changeBackgroundButton4.addEventListener("click", () => {
-    paragraph.innerHTML = "<h4> The Pontchatoula  Strawberry Festival</h4> Is a community event that celebrates the strawberry harvest. This festival features food stalls with strawberry-themed treats, live music, carnival rides, parades, and local farmers selling their produce";
+    paragraph.innerHTML = "<h4> The Pontchatoula  Strawberry Festival</h4> Is a community event that celebrates the strawberry harvest. This festival features food stalls with strawberry-themed treats, live music, carnival rides, parades, and local farmers selling their produce,<br>April 10-12,2026";
   });
 
 // FLORIDA
