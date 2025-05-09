@@ -33,11 +33,39 @@ changeBackgroundButton4.addEventListener("click", () => {
     'url("https://images.squarespace-cdn.com/content/v1/6328ba227a155411a8fe15f5/41fd0ef0-095f-4771-87c0-99fe74a42a05/PARADE-min.png")';
 });
 
-// cruisin the coast button
+// MISSISSIPPI
 
+// cruisin the coast button
 let changeBackgroundButton5 = document.getElementById("btn-ctc");
 
 changeBackgroundButton5.addEventListener("click", () => {
   document.body.style.backgroundImage =
     'url("https://images.stockcake.com/public/8/e/2/8e26bcf5-7ccf-445f-9f63-ac4777c6ab25_large/vintage-car-seaside-stockcake.jpg")';
 });
+
+// juke joint festival button
+let changeBackgroundButton6 = document.getElementById("btn-ctc");
+
+changeBackgroundButton6.addEventListener("click", () => {
+  document.body.style.backgroundImage =
+    'url(")';
+});
+
+//Tupelo Elvis Festival
+let changeBackgroundButton7 = document.getElementById("btn-ctc");
+
+changeBackgroundButton7.addEventListener("click", () => {
+  document.body.style.backgroundImage =
+    'url(")';
+});
+
+// Mississippi Science Fest
+let changeBackgroundButton8 = document.getElementById("btn-ctc");
+
+changeBackgroundButton8.addEventListener("click", () => {
+  document.body.style.backgroundImage =
+    'url(")';
+});
+
+// FLORIDA
+
