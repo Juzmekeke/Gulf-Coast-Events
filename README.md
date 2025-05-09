@@ -23,7 +23,7 @@ A site showing different events happening along the gulf coast by state
 <li>Mississippi Science Fest</li>
 </ul>
 
-**Alabama**
+Alabama-Omitted
 <ul>
 <li>Alabama Jubilee Hot Air Balloon Classic</li>
 <li>Woodstock Music Festival</li>
