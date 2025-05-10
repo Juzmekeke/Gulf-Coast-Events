@@ -14,19 +14,6 @@ let paragraph = document.getElementById("myParagraph");
       });
 
 
-
-
-// state display code
-
-// let button2 = document.getElementById('btn-mg');
-// const heading = document.getElementById('heading');
-
-// button.addEventListener('click', function() {
-//   heading.style.display = 'block';
-// });
-
-
-
 // jazz fest button
 let changeBackgroundButton2 = document.getElementById("btn-jf");
 
